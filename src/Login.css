@@ -1,0 +1,39 @@
+.login-input-box {
+  margin-top: 4px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 4px;
+  stroke: black;
+  align-items: center;
+}
+
+.login-input-text {
+  text-align: right;
+}
+
+
+.login-head {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.btn {
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+.main-block {
+
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  padding: auto;
+  margin: auto;
+  transition: transform 0.2s;
+  width: 500px;
+  text-align: center;
+  align-items: center;
+
+}

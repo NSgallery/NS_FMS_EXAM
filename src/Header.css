@@ -1,0 +1,17 @@
+.text-menu-header {
+    color: aqua;
+    font-size: 2rem;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 5px;
+
+}
+
+.text-menu {
+    color: aliceblue;
+    stroke: black;
+    font-size: 1rem;
+    text-decoration: none;
+    margin: 20px;
+
+}
